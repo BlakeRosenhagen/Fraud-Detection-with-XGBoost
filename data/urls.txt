@@ -1,2 +1,0 @@
-Transactions data comes from:
-https://www.kaggle.com/ntnu-testimon/paysim1
