@@ -1,5 +1,5 @@
 # UT-Final-Project
-Training a machine learning model to identify whether particular transactions are fraud.
+Combining the processes of logistical regression and classification to determine whether certain transactions are fraudualent. 6 Million + training and testing transactions used.
 ## Attention!
 
 #### Download csv from https://www.kaggle.com/ntnu-testimon/paysim1 and place csv file in "data" folder. Title file "transaction.csv"
